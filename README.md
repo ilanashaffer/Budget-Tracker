@@ -16,7 +16,7 @@ Your Budget Tracker is now a local app to use on and offline!
 
 
 Deployed link:  
-https://tbd.herokuapp.com/  
+https://offline-budget-tracker-app.herokuapp.com/  
 
 Built with:  
 Node.js  
